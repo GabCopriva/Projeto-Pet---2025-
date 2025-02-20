@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Pet Vida</h1> 
-
+<h2 align="center">Acesse: https://pet-vida.netlify.app/</h2>
 ## 📚: Descrição do projeto:
 <p style="text=align: justify;"> Um projeto voltado ao desenvolvimento dos estudos acadêmicos em 2025, junto com a formação em andamento de Análise e Desenvolvimento de Sistemas.</p><br>
 <table>
